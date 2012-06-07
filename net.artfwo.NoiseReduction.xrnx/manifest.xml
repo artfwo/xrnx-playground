@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Noise Reduction Tool</Name>
+  <Id>net.artfwo.NoiseReduction</Id>
+  <Version>0.1</Version>
+  <ApiVersion>3.0</ApiVersion>
+  <Author>artfwo [artfwo@gmail.com]</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>Sample Editor</Category>
+  <Description>Reduce noise in samples by profiling and filtering. This script is a front-end for the command-line audio processing tool SoX.</Description>
+  <Homepage/>
+  <Platform>Windows, Mac, Linux</Platform>
+  <Icon/>
+</RenoiseScriptingTool>
