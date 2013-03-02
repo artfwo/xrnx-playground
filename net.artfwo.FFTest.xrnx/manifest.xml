@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>FFTest</Name>
+  <Id>net.artfwo.FFTest</Id>
+  <Version>0.1</Version>
+  <ApiVersion>3.0</ApiVersion>
+  <Author>artfwo [artfwo@gmail.com]</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>Sample Editor</Category>
+  <Description>Does its stuff.</Description>
+</RenoiseScriptingTool>
